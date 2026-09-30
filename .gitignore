@@ -1,2 +1,18 @@
+## .NET build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test and package output
+TestResults/
+*.nupkg
+packages/
+
 roadmap.txt
 whatsap_system.pdf

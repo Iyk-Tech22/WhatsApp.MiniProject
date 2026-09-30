@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WhatsApp.Modules.Identity/WhatsApp.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/WhatsApp.Api/">
+    <Project Path="src/WhatsApp.Api/WhatsApp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WhatsApp.IntegrationTests/WhatsApp.IntegrationTests.csproj" />
+    <Project Path="tests/WhatsApp.UnitTests/WhatsApp.UnitTests.csproj" />
+  </Folder>
+</Solution>

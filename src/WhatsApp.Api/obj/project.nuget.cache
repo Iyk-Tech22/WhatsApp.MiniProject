@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJSPUBb7Des=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IYKT TECH\\Desktop\\C# Projects\\System_Design_Projects\\WhatsApp.MiniProject\\src\\WhatsApp.Api\\WhatsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IYKT TECH\\.nuget\\packages\\aspnetcore.healthchecks.npgsql\\9.0.0\\aspnetcore.healthchecks.npgsql.9.0.0.nupkg.sha512",
+    "C:\\Users\\IYKT TECH\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\IYKT TECH\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\IYKT TECH\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
